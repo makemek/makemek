@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://github.com/makemek/makemek/blob/master/chill.gif" alt="Chilling" width="900" />
+  <img src="https://github.com/makemek/makemek/blob/master/cover.gif" width="900" />
 </p>
